@@ -12,6 +12,24 @@ A full-stack User Management CRUD application built using React.js and Spring Bo
 - Responsive UI
 - MySQL Database
 
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### Add User
+
+![Add User](screenshots/add-user.png)
+
+### Edit User
+
+![Edit User](screenshots/edit-user.png)
+
+### View User By ID
+
+![View User By ID](screenshots/viewById.png)
+
 ## Tech Stack
 
 ### Frontend
