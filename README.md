@@ -12,16 +12,6 @@ A full-stack User Management CRUD application built using React.js and Spring Bo
 - Responsive UI
 - MySQL Database
 
-## Screenshots
-
-### Home
-
-![Home](screenshots/home.png)
-
-### Add User
-
-![Add User](screenshots/add-user.png)
-
 ## Tech Stack
 
 ### Frontend
@@ -56,16 +46,16 @@ User-Management-System
 
 ## Installation
 
-### Backend
-
-Run Spring Boot Application
-
 ### Frontend
 
 npm install
 
 npm run dev
 
+### Backend
+
+Run Spring Boot Application
+
 ## Author
 
-Mohamed Tharik
+Your Name
