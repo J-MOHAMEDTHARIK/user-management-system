@@ -76,4 +76,4 @@ Run Spring Boot Application
 
 ## Author
 
-Your Name
+Mohamed Tharik
